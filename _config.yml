@@ -1,5 +1,9 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
+# Site settings
+title: Wendybubu's Blog
+SEOTitle: Wendybubu's Blog
+description: Wendybubu's Blog
+keyword: "Wendybubu's Blog"
 show_downloads: true
-google_analytics:
-theme: 
+# google_analytics:
+# theme:
+
