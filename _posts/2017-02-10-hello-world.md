@@ -6,7 +6,7 @@
 
 写博客的主要目的是梳理自己的知识点。此外，还希望能借此进行技术交流。如果有些内容刚好也帮助了有需要的人，那就更棒啦！
 
-喜欢[阮一峰](http://www.ruanyifeng.com?_blank)老师的博客，他在[《图灵访谈》](http://www.ruanyifeng.com/blog/2015/02/turing-interview.html?_blank)一文中有谈到自己的写作风格：
+喜欢[阮一峰](http://www.ruanyifeng.com)老师的博客，他在[《图灵访谈》](http://www.ruanyifeng.com/blog/2015/02/turing-interview.html)一文中有谈到自己的写作风格：
 
 > 我喜欢用口语，喜欢用短句，别人比较容易看懂
 
